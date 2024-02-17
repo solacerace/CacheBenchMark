@@ -1,8 +1,0 @@
-apple
-banana
-blueberry
-cherry
-pumpkin
-watermelon
-wolf
-zebra
